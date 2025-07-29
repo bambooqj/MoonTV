@@ -84,6 +84,84 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+      {
+    "ikunzy": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱看资源"
     }
+  },
+  {
+    "xmmzy": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"
+    }
+  },
+  {
+    "avre": {
+      "api": "https://www.avre06.com/api.php/Prodao/vod",
+      "name": "AVRE资源"
+    }
+  },
+  {
+    "ffzy": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源"
+    }
+  },
+  {
+    "sexnguon": {
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "name": "色旋资源"
+    }
+  },
+  {
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源"
+    }
+  },
+  {
+    "mozhuazy": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "莫札资源"
+    }
+  },
+  {
+    "lbapi": {
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "乐播资源"
+    }
+  },
+  {
+    "huyaapi": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    }
+  },
+  {
+    "bwzyz": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "博网资源"
+    }
+  },
+  {
+    "maoyan": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源"
+    }
+  },
+  {
+    "dhhacn": {
+      "api": "https://dh.ha.cn/api.php/provide/vod",
+      "name": "导航资源"
+    }
+  },
+  {
+    "lziapi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源"
+    }
+  }
   }
 }
